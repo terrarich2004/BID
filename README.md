@@ -1,7 +1,7 @@
 # `.bid` tutorial (Zilda)
 
 `.bid` описывает блок: его ключ, физику, рендер, текстуры, цвета и иконку.
-Файлы лежат в `assets/packs/ZildaPack/blocks/`.
+Файлы лежат в `assets/packs/<Pack_name>/blocks/`.
 
 ## 1) Минимальный рабочий `.bid`
 
